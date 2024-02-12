@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luana Teixeira</h1>
+<h1 align="center"> Hello, I'm Luana Teixeira <img src="https://github.com/luanatex/luanatex/assets/141527536/88f7480c-f9fa-4a09-b59d-8dd1cd5f0778" width="100" align="right"/></h1>
+
 <h3 align="center">Student from Brasil</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -11,3 +12,9 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanatex&layout=donut&theme=dark)](https://github.com/luanatex/github-readme-stats)
+
+<br><br><br>
+
+<div align="center">
+<img src="https://github.com/luanatex/luanatex/assets/141527536/cd8e3828-f954-42e4-9b74-ebec9ee47b56" align=middle />
+</div>
