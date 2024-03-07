@@ -1,6 +1,12 @@
 <h1 align="center"> Hello, I'm Luana Teixeira <img src="https://github.com/luanatex/luanatex/assets/141527536/88f7480c-f9fa-4a09-b59d-8dd1cd5f0778" width="100" align="right"/></h1>
 
 <h3 align="center">Student from Brasil</h3>
+<p>
+      - Web development / Front-end <br>
+      - UX/UI Design e Prototyping <br>
+      - Data Analysis and Visualization
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +28,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/luanatex/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanatex&layout=donut&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanatex&layout=donut&theme=dracula" />
   <a/>
 </p>
 
